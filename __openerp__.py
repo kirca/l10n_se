@@ -25,7 +25,6 @@
     'category': 'Localization/Account Charts',
     'description': """
     This is a module to manage the accounting chart for Sweden in OpenERP
-    =====================================================================
     """,
     'author': 'Dada Priyatosh',
     'website': 'http://missing',
